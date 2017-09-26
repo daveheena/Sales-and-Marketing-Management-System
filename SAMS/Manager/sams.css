@@ -1,0 +1,77 @@
+.hyperlink
+{
+	-fx-text-fill: blueviolet;
+	-fx-cursor: hand;	
+	-fx-font: bold 16px verdana;	
+}
+.hyperlink:hover
+{
+	-fx-font: bold 20px verdana;
+}
+.hyperlink:visited
+{
+	-fx-text-fill: blueviolet;
+}
+#label
+{
+	-fx-text-fill: darkorchid;	
+	-fx-font: bold 24px calibri;	
+}
+#lbl
+{
+	-fx-text-fill: saddlebrown;	
+	-fx-font: 24px calibri;
+}
+#lbl2
+{
+	-fx-text-fill: teal;	
+	-fx-font: 24px calibri;
+}
+.text-box
+{
+	-fx-text-fill: darkmagenta;
+	-fx-font:16px calibri;
+}
+.text-box:hover
+{	
+	-fx-scale: 2;
+}
+.button
+{
+	-fx-background-color: slateblue;
+	-fx-text-fill: azure;
+	-fx-font: bold 17px calibri;
+}
+.button:hover
+{
+	-fx-cursor: hand;
+}
+.button:focused
+{
+	-fx-background-color: slateblue;
+	-fx-text-fill: azure;
+}
+.list-view
+{
+	-fx-text-fill: navy;
+	-fx-font: bold 24px calibri;
+}
+.choice-box
+{
+	-fx-text-fill: darkmagenta;
+	-fx-font: 18px calibri;
+}
+.radio-button
+{
+	-fx-text-fill: darkmagenta;
+	-fx-font:16px calibri;
+}
+#cb
+{
+	-fx-font: 18px calibri;
+	-fx-text-fill: darkmagenta;
+}
+#image
+{
+	-fx-border-color: black;
+}
